@@ -29,7 +29,6 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Erro no teste de conexão com MongoDB: {e}")
 
-
 """
 Utilizar a conexão em outro pagina:
 
